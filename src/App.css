@@ -27,3 +27,7 @@ button {
 form {
   background-color: bisque;
 }
+
+.uncontrolled-form {
+  background-color: burlywood;
+}
